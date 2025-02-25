@@ -1,0 +1,1 @@
+java -jar -Xmx6g GuessPrivateKey.jar 4 bit.txt up *put your key space in decimal here*
