@@ -50,4 +50,4 @@ DOGE DQp2mRMwe6QY6BxoodHsqziYJacrHNkJ9Q
 
 ETH 0xe5ebfa618d84ac0e17b65ed49103bf9ad9458b17
 
-copyright 2024-2025©Manuklondong™
+copyright©2024-2025 Manuklondong™
