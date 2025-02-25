@@ -43,8 +43,11 @@ Note: if it cannot create file(s), it will print these info directly into the sc
 if you like my project please tips me here :
 
 USDT (BEP20) 0xe5ebfa618d84ac0e17b65ed49103bf9ad9458b17
+
 BTC 18TxFasTh5rBNe5pRrHULvKEbtxArRfkU3
+
 DOGE DQp2mRMwe6QY6BxoodHsqziYJacrHNkJ9Q
+
 ETH 0xe5ebfa618d84ac0e17b65ed49103bf9ad9458b17
 
 copyright 2024-2025©Manuklondong™
